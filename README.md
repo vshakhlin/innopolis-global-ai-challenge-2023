@@ -14,3 +14,9 @@ Contest website: https://globalai.innopolis.university/
 Liderboard on kaggle: https://www.kaggle.com/competitions/innopolis-global-ai-challenge-2023-ai4med
 
 Code on kaggle: https://www.kaggle.com/code/vshakhlin/innopolis-global-ai-challenge-2023-ipynb
+
+# Our Team
+- Шахлин Виталий: <a href="https://github.com/vshakhlin">vshakhlin</a><br>
+- Князев Александр: <a href="https://github.com/Squderini">Squderini</a><br>
+- Мартынович Степан: <a href="https://github.com/Stedjey">Stedjey</a><br>
+- Евгений Кондратьев:
